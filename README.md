@@ -3,6 +3,12 @@ A simple midi player made for the game Rust.
 ---
 ### ⚠️ - Requires [loopMidi,](https://www.tobias-erichsen.de/wp-content/uploads/2020/01/loopMIDISetup_1_0_16_27.zip) and a virtual port called ***RustyPlayer*** to work.
 
+### ❓ - Can I get banned for using this?
+### ℹ️ - No, the devs allow theese kind of things.
+
+![image](https://github.com/user-attachments/assets/cd770408-768c-4049-a188-43d20b7e8800)
+
+
 ## Showcase
 
 Desktop View:
