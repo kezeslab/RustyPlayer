@@ -6,7 +6,7 @@ A simple midi player made for the game Rust.
 ### ❓ - Can I get banned for using this?
 ### ℹ️ - No, the devs allow theese kind of things.
 
-![image](https://github.com/user-attachments/assets/cd770408-768c-4049-a188-43d20b7e8800)
+![image](https://github.com/user-attachments/assets/95ee1752-1009-4f97-a5cf-bcf505ed3c34)
 
 
 ## Showcase
