@@ -10,6 +10,10 @@ A simple midi player made for the game Rust.
 
 ![image](https://github.com/user-attachments/assets/95ee1752-1009-4f97-a5cf-bcf505ed3c34)
 
+## Great MIDI Sources
+- [Midiworld](https://www.midiworld.com/)
+- [Bitmidi](https://bitmidi.com/)
+- [Online Sequencer](https://onlinesequencer.net/sequences)
 
 ## Showcase
 
